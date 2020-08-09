@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "typescript-angular"
+    }
+  },
+  "defaultProject": "typescript-angular",
+  "cli": {
+    "analytics": "e4155a46-c34a-48c8-ba69-1332a39b35bf"
+  }
 }
